@@ -1,2 +1,3 @@
 # comp-333-assingments
- Comp 333 assignments
+
+This is a repo to store all comp 333 (Algorithm Theory and Design) assignments.
